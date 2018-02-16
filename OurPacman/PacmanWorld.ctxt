@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PacmanWorld()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PacmanWorld.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ SetAndCreateLayout()
+comment2.params=array
+comment2.target=void\ createLayout(int[])
+numComments=3
